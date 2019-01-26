@@ -2,3 +2,14 @@
 
 https://www.oreilly.com/library/view/extending-jenkins/9781785284243/
 https://medium.com/quick-code/top-tutorials-to-learn-jenkins-ci-for-testing-automation-93c7ac068f66
+
+Jenkins :
+
+1. Configure Global Security
+
+   * Allow users to sign up : we can provide singnup action to user - but not recognozied to use 
+   * Anyone can do anything : just hiting jenkins server anyone can do anything without authentication - but not recognozied to use 
+   * Logged-in users can do anything  : ?
+   * Matrix-based security : If you choose matrix based security atleast we need to add one user else jenkins
+
+
